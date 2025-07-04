@@ -1,6 +1,6 @@
 #Project Overview
 
-## Eurify
+##Eurify
 Eurify is an advanced AI-powered financial risk analysis platform developed as part of an undergraduate Computer Science project titled "Predictive Analytics for Assessing Financial Market Risks". The application combines multiple machine learning models with comprehensive technical analysis to provide intelligent insights into financial market risks and trading opportunities.
 
 ##Project Objectives
