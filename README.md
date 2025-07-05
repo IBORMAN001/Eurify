@@ -52,8 +52,8 @@ CSV Export: Download predictions and analysis results
 Analysis Reports: Comprehensive text-based summaries
 Configuration Details: Model parameters and data statistics
 
-##Getting Started
-###Prerequisites
+Getting Started
+Prerequisites
 bashPython 3.8 or higher
 pip (Python package installer)
 Installation
@@ -63,7 +63,7 @@ Clone the repository
 bashgit clone https://github.com/yourusername/eurify-financial-analysis.git
 cd eurify-financial-analysis
 
-###Install required packages
+Install required packages
 
 bashpip install -r requirements.txt
 
