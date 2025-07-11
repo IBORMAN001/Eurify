@@ -1150,29 +1150,29 @@ st.markdown("""
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0;">
     <div>
         <h4 style="color: #3498db;">🎯 Our Mission</h4>
-        <p style="color: rgba(255,255,255,0.8);">
+        <p style="color: rgba(0, 0, 0, 0.7);">
             Democratize advanced financial analysis through AI technology, making professional-grade 
             risk assessment accessible to everyone.
         </p>
     </div>
     <div>
         <h4 style="color: #2ecc71;">🛡️ Security & Privacy</h4>
-        <p style="color: rgba(255,255,255,0.8);">
+        <p style="color: rgba(0, 0, 0, 0.7);">
             Your data is processed locally and securely. We prioritize user privacy and 
             data protection in all our operations.
         </p>
     </div>
     <div>
         <h4 style="color: #e74c3c;">⚠️ Disclaimer</h4>
-        <p style="color: rgba(255,255,255,0.8);">
+        <p style="color: rgba(0, 0, 0, 0.7);">
             This tool provides analysis for educational purposes. Always consult financial 
             advisors and conduct thorough research before making investment decisions.
         </p>
     </div>
 </div>
 
-<div style="border-top: 1px solid rgba(255,255,255,0.2); padding-top: 1.5rem; margin-top: 2rem;">
-    <p style="margin: 0; color: rgba(255,255,255,0.7);">
+<div style="border-top: 1px solid rgba(0, 0, 0, 0.7); padding-top: 1.5rem; margin-top: 2rem;">
+    <p style="margin: 0; color: rgba(0, 0, 0, 0.7);">
         &copy; 2024 Eurify - Predictive Analytics for Financial Market Risk Assessment<br>
         <em>Research Led Purpose - Advanced AI Implementation</em>
     </p>
